@@ -1,0 +1,15 @@
+{
+  "name": "perf-log",
+  "version": "1.0.0",
+  "description": "Log performance web  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "performance",
+    "psi"
+  ],
+  "author": "Luiz Tanure",
+  "license": "ISC"
+}
